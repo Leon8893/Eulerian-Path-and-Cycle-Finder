@@ -28,9 +28,9 @@ Error handling with descriptive messages for common issues.
 
 ## Compilation and usage
 
-You can compile the project using the provided Makefile. Simply run: `make`
-To clean the build files, run: `make clean`
-Run the compiled program: `make run`
+- You can compile the project using the provided Makefile: `make`
+- To clean the build files: `make clean`
+- Run the compiled program: `make run`
 
 ## Input file format
 First line: Number of graphs.
